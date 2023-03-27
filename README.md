@@ -29,8 +29,8 @@
 
 <br/>
 
-- [<img align="left" alt="Robert Vlad | Linkedin" width="100px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
-- [<img align="left" alt="Robert Vlad | Gmail" width="100px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />][gmail]	
+- [<img align="left" alt="Robert Vlad | Linkedin" width="100px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin] <strong>:rocket: Connect with me on Linkedin</strong>
+- [<img align="left" alt="Robert Vlad | Gmail" width="100px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />][gmail] <strong>⚡ This is my email!</strong>
 
 [linkedin]: https://www.linkedin.com/in/vlad-robert/
 [gmail]: https://mail.google.com/mail/?view=cm&source=mailto&to=vladrob96@gmail.com
@@ -65,9 +65,6 @@
 	<a href="https://www.phpmyadmin.net/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/phpmyadmin/phpmyadmin-ar21.svg" width="50" height="50" alt="Vite" /></a>
 </p>
 
-
-
-
 <br/>
 
 <h3>📝 Stats</h3>
@@ -75,10 +72,12 @@
 <br/>
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=robertvlad&show_icons=true&locale=en&layout=compact" width="250" alt="robertvlad" />
-    <img src="https://github-readme-stats.vercel.app/api?username=robertvlad&show_icons=true&locale=en" width="360" alt="robertvlad" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=robertvlad&" width="350" alt="robertvlad"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=robertvlad&show_icons=true&locale=en&layout=compact" width="300" alt="robertvlad" />
+    <img src="https://github-readme-stats.vercel.app/api?username=robertvlad&show_icons=true&locale=en" width="395" alt="robertvlad" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=robertvlad&" width="420" alt="robertvlad"/>
 </p>
+
+<p align="center">Thanks for visiting my account :wink:</p>
 
 <!--
 **robertvlad/robertvlad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
