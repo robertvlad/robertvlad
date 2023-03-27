@@ -75,9 +75,9 @@
 <br/>
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=robertvlad&show_icons=true&locale=en&layout=compact" width="270" alt="robertvlad" />
-    <img src="https://github-readme-stats.vercel.app/api?username=robertvlad&show_icons=true&locale=en" width="380" alt="robertvlad" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=robertvlad&" width="370" alt="robertvlad"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=robertvlad&show_icons=true&locale=en&layout=compact" width="250" alt="robertvlad" />
+    <img src="https://github-readme-stats.vercel.app/api?username=robertvlad&show_icons=true&locale=en" width="360" alt="robertvlad" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=robertvlad&" width="350" alt="robertvlad"/>
 </p>
 
 <!--
