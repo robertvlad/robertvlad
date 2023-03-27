@@ -2,9 +2,7 @@
 	<img src="./img/copertina_linkedin.png">
 </p>
 
-<h1 align="center">Welcome on my GitHub profile!</h1>
-
-<h2>Hi there! 👋</h2>
+<h1 align="center">👋 Hi, welcome on my GitHub profile!</h1>
 
 <br/>
 
@@ -29,8 +27,11 @@
 
 <br/>
 
-- [<img align="left" alt="Robert Vlad | Linkedin" width="100px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin] <strong>:rocket: Connect with me on Linkedin</strong>
-- [<img align="left" alt="Robert Vlad | Gmail" width="100px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />][gmail] <strong>⚡ This is my email!</strong>
+- [<img align="left" alt="Robert Vlad | Linkedin" width="130px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin] <strong>:rocket: Connect with me on Linkedin</strong>
+
+<br/>
+
+- [<img align="left" alt="Robert Vlad | Gmail" width="130px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />][gmail] <strong>⚡ This is my email!</strong>
 
 [linkedin]: https://www.linkedin.com/in/vlad-robert/
 [gmail]: https://mail.google.com/mail/?view=cm&source=mailto&to=vladrob96@gmail.com
