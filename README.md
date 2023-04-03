@@ -73,9 +73,7 @@
 <br/>
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=robertvlad&show_icons=true&locale=en&layout=compact" width="300" alt="robertvlad" />
-    <img src="https://github-readme-stats.vercel.app/api?username=robertvlad&show_icons=true&locale=en" width="395" alt="robertvlad" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=robertvlad&" width="420" alt="robertvlad"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=robertvlad&layout=compact" width="420" alt="robertvlad" />
 </p>
 
 <p align="center">Thanks for visiting my account :wink:</p>
