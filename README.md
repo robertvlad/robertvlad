@@ -6,7 +6,11 @@
 
 <br/>
 
-<p>:computer: I'm <strong>Robert</strong>, a 26-year-old boy <strong>JAVA DEVELOPER | FULL STACK WEB DEVELOPER</strong>. Passionate about technology, development and innovation, I had the opportunity to be a student of the Boolean school which started a more professional study of my passions related to the world of the web. Later, having been selected to participate in the Experis project, I studied the <strong>Java programming language</strong>, which particularly fascinated me.</p>
+<p>:computer: I'm <strong>Robert</strong>, a 26-year-old boy <strong>JAVA DEVELOPER | FULL STACK WEB DEVELOPER</strong>.</p>
+
+<p>
+	Passionate about technology, development and innovation, I had the opportunity to be a student of the Boolean school which started a more professional study of my passions related to the world of the web. Later, having been selected to participate in the Experis project, I studied the <strong>Java programming language</strong>, which particularly fascinated me.
+</p>
 
 <h4>- 💡 I love innovation and new technologies</h4>
 <h4>- 🤝 I’m looking to collaborate with other content creators</h4>
