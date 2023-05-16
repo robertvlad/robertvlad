@@ -1,12 +1,12 @@
 <p align="center">
-	<img src="./img/copertina_linkedin.png">
+	<img src="./img/linkedin_copertina.png">
 </p>
 
 <h1 align="center">👋 Hi, welcome on my GitHub profile!</h1>
 
 <br/>
 
-<p>:computer: I'm <strong>Robert</strong>, a 26-year-old boy <strong>Jr. Full Stack Web Developer</strong>, with a great passion for <strong>technology and development</strong>. Learning new topics every day, and creating increasingly complex projects, confirmed to me how comfortable I was in this environment. The end of a project makes me proud of my work, and at the same time excited about the next one.</p>
+<p>:computer: I'm <strong>Robert</strong>, a 26-year-old boy <strong>JAVA DEVELOPER | FULL STACK WEB DEVELOPER</strong>. Passionate about technology, development and innovation, I had the opportunity to be a student of the Boolean school which started a more professional study of my passions related to the world of the web. Later, having been selected to participate in the Experis project, I studied the <strong>Java programming language</strong>, which particularly fascinated me.</p>
 
 <h4>- 💡 I love innovation and new technologies</h4>
 <h4>- 🤝 I’m looking to collaborate with other content creators</h4>
@@ -44,27 +44,35 @@
 
 <p align="center">
 	<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="50" height="50" alt="HTML5" /></a>
-	<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="50" height="50" alt="CSS3" /></a>
-	<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/></a>
 	<a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="50" height="50" alt="PHP" /></a>
+	<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/></a>
+	<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="50" height="50" alt="HTML5" /></a>
+	<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="50" height="50" alt="CSS3" /></a>
+
 	<a href="https://sass-lang.com" > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="50" height="50"/> </a>
 	<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="50" height="50" alt="Bootstrap" /></a>
 </p>
 
 <p align="center">
+	<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/> </a>
+	<a href="https://git-scm.com/" > <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/></a>
 	<a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" width="50" height="50" alt="Laravel" /></a>
 	<a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" width="50" height="50" alt="Vue" /></a>
 	<a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="50" height="50" alt="Vite" /></a>
-	<a href="https://nodejs.org" > <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="nodejs" width="50" height="50"/></a>
-	<a href="https://git-scm.com/" > <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/></a>
+	<a href="https://code.visualstudio.com/" > <img src="https://i.ibb.co/vBw3R3Q/Visual-Studio-Code.png" width="50" height="50"/> </a> 
 </p>
 
-<p align="center">
-	<a href="https://code.visualstudio.com/" > <img src="https://www.vectorlogo.zone/logos/atom_io/atom_io-icon.svg" width="50" height="50"/> </a> 
-	<a href="https://code.visualstudio.com/" > <img src="https://i.ibb.co/vBw3R3Q/Visual-Studio-Code.png" width="50" height="50"/> </a> 
-	<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/> </a>
-	<a href="https://www.phpmyadmin.net/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/phpmyadmin/phpmyadmin-ar21.svg" width="50" height="50" alt="Vite" /></a>
+<br/>
+
+<p>
+	<ul>
+		<li>OOP</li>
+		<li>JSON</li>
+		<li>ECLIPSE</li>
+		<li>REST API</li>
+	</ul>
 </p>
+
 
 <br/>
 
