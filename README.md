@@ -72,11 +72,6 @@
 	</ul>
 </p>
 
-
-<br/>
-
-<h3>📝 Stats</h3>
-
 <br/>
 
 <p align="center">Thanks for visiting my account :wink:</p>
